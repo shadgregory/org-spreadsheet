@@ -1,0 +1,9 @@
+* Org-Mode Tables
+** Sites
+*** Advanced Features
+**** https://www.gnu.org/software/emacs/manual/html_node/org/Advanced-features.html#Advanced-features
+*** Calc Vector Functions
+**** https://www.gnu.org/software/emacs/manual/html_mono/calc.html#Single_002dVariable-Statistics
+*** Org as a spreadsheet system
+**** https://orgmode.org/worg/org-tutorials/org-spreadsheet-intro.html
+** My Table
